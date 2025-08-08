@@ -10,3 +10,6 @@ REMAPS
 " pf" == Phuzzy Find
 " ps" == Find Word
 "CTRL p" == git find
+
+" a" == adds current file to harpoon
+ctrl + h,t,n,s == jump to 1,2,3,4
